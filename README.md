@@ -1,4 +1,4 @@
-# Adeept AWR 4WD Smart Car Kit for Raspberry Pi (PiCar-B)
+# Adeept AWR 4WD Smart Car Kit for Raspberry Pi PiCar-B
 
 Цей проєкт є кастомізованою версією набору **Adeept PiCar-B**, адаптованою до сучасних версій Raspberry Pi OS та Python 3. Основною метою було забезпечення повноцінної роботи смарт-машинки, виправлення проблем з сумісністю, та оновлення логіки керування.
 
